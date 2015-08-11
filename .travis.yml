@@ -10,6 +10,7 @@ env:
   global:
     - PATH="$PATH:$HOME/.composer/vendor/bin"
     - TESTDIR=$(pwd)
+    - DRUPAL_TI_DRUSH_VERSION="drush/drush:8.0.x-dev"
     - DRUPAL_TI_MODULE_NAME="password_policy"
     - DRUPAL_TI_SIMPLETEST_GROUP="password_policy"
     - DRUPAL_TI_DB="drupal_travis_$$"
