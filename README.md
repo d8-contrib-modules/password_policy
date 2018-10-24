@@ -12,7 +12,7 @@ Password Policy comes bundled with a password expiration feature. Policies defin
 
 **Enable**
 
--  Download and enable the module
+-  Download and enable the module as per normal.
 
 
 **Plugins**
